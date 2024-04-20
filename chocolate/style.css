@@ -1,0 +1,34 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.custom-pack {
+    background: #f8f8f8;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    margin: auto;
+}
+
+.chocolate-selection {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input[type="number"] {
+    width: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
